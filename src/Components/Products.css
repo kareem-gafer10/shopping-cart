@@ -1,0 +1,21 @@
+.cards {
+  border: 1px solid black;
+  background-color: #ffff
+  ;
+}
+.cards .card-img {
+  width: 50%;
+  height: 150px;
+  margin: 20px 0;
+}
+.cards .card-img img {
+  width: 100%;
+  height: 100%;
+}
+.cards .card-body {
+  padding: 20px;
+}
+.cards .card-body .price {
+  color: #008080;
+  font-size: 18px;
+}
