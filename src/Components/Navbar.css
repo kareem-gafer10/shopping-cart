@@ -6,3 +6,11 @@
   height: 22px;
   border-radius: 50%;
 }
+
+@media (max-width: 992px) {
+  .navbar .cart-icon {
+    right: unset;
+    top: -5px;
+    left: 13px;
+  }
+}
